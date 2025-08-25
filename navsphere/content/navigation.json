@@ -1,3 +1,13 @@
 {
-  "navigationItems": []
+  "navigationItems": [
+    {
+      "id": "1756106362157",
+      "title": "资源下载",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    }
+  ]
 }
