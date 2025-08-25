@@ -41,7 +41,16 @@
           "icon": "Network",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756111707726_urxbw5vaq",
+              "title": "云码-自动验证码识别平台_验证码识别API接口_免费验证码软件",
+              "href": "https://zhuce.jfbym.com/",
+              "description": "自动验证码识别平台",
+              "icon": "/assets/favicon_1756111689987.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
