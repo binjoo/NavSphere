@@ -61,7 +61,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "43dfe4fe-eb5a-4d2d-a21e-1b6478097d6f",
+          "title": "兴趣社区 Interest Community",
+          "icon": "MessageSquare",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
