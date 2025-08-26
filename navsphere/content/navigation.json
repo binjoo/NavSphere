@@ -138,6 +138,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1756191267918",
+      "title": "游戏",
+      "icon": "Flag",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
