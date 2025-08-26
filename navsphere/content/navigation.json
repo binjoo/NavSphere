@@ -47,6 +47,14 @@
               "description": "提供 Windows、服务器系统等的官方原版 ISO",
               "icon": "/assets/favicon_1756189054948.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756189642973_wf93da2pu",
+              "title": "Next, ITELLYOU",
+              "href": "https://next.itellyou.cn/",
+              "description": "MSDN 的替代站，仍提供官方原版 ISO，但部分资源需积分或付费",
+              "icon": "/assets/favicon_1756189627892.png",
+              "enabled": true
             }
           ]
         },
