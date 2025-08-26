@@ -64,7 +64,16 @@
           "icon": "LayoutGrid",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756189834111_v7u4hm0nd",
+              "title": "Z-Library",
+              "href": "https://zh.zlih.ru/",
+              "description": "世界上最大的电子图书馆。自由访问知识和文化。",
+              "icon": "/assets/favicon_1756189823058.svg",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
