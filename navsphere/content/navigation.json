@@ -39,7 +39,16 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756189613432_vj06fuf91",
+              "title": "MSDN 我告诉你",
+              "href": "https://msdn.itellyou.cn/",
+              "description": "提供 Windows、服务器系统等的官方原版 ISO",
+              "icon": "/assets/favicon_1756189054948.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "8830a925-8e3e-46c9-ae82-1f935603fd4d",
