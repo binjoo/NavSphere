@@ -22,8 +22,24 @@
               "description": "NULLBR资源分享频道",
               "icon": "/assets/favicon_1756106522680.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756106533156_p39lo3f5b",
+              "title": "Streamlit",
+              "href": "https://nullbr.online/",
+              "description": "NULLBR资源分享频道",
+              "icon": "/assets/favicon_1756106522680.png",
+              "enabled": true
             }
           ]
+        },
+        {
+          "id": "d012656c-675f-41ec-a31d-133ce294bf01",
+          "title": "软件应用 Software & Apps",
+          "icon": "Target",
+          "description": "精选绿色软件、破解软件、开源软件站。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
