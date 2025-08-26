@@ -46,6 +46,38 @@
               "description": "NULLBR资源分享频道",
               "icon": "/assets/favicon_1756106522680.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756106533156_p39lo3f5b",
+              "title": "Streamlit",
+              "href": "https://nullbr.online/",
+              "description": "NULLBR资源分享频道",
+              "icon": "/assets/favicon_1756106522680.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756106533156_p39lo3f5b",
+              "title": "Streamlit",
+              "href": "https://nullbr.online/",
+              "description": "NULLBR资源分享频道",
+              "icon": "/assets/favicon_1756106522680.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756106533156_p39lo3f5b",
+              "title": "Streamlit",
+              "href": "https://nullbr.online/",
+              "description": "NULLBR资源分享频道",
+              "icon": "/assets/favicon_1756106522680.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756106533156_p39lo3f5b",
+              "title": "Streamlit",
+              "href": "https://nullbr.online/",
+              "description": "NULLBR资源分享频道",
+              "icon": "/assets/favicon_1756106522680.png",
+              "enabled": true
             }
           ]
         },
@@ -127,16 +159,112 @@
               "description": "MSDN 的替代站，仍提供官方原版 ISO，但部分资源需积分或付费",
               "icon": "/assets/favicon_1756189627892.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756189613432_vj06fuf91",
+              "title": "MSDN 我告诉你",
+              "href": "https://msdn.itellyou.cn/",
+              "description": "提供 Windows、服务器系统等的官方原版 ISO",
+              "icon": "/assets/favicon_1756189054948.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756189642973_wf93da2pu",
+              "title": "Next, ITELLYOU",
+              "href": "https://next.itellyou.cn/",
+              "description": "MSDN 的替代站，仍提供官方原版 ISO，但部分资源需积分或付费",
+              "icon": "/assets/favicon_1756189627892.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756189613432_vj06fuf91",
+              "title": "MSDN 我告诉你",
+              "href": "https://msdn.itellyou.cn/",
+              "description": "提供 Windows、服务器系统等的官方原版 ISO",
+              "icon": "/assets/favicon_1756189054948.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756189642973_wf93da2pu",
+              "title": "Next, ITELLYOU",
+              "href": "https://next.itellyou.cn/",
+              "description": "MSDN 的替代站，仍提供官方原版 ISO，但部分资源需积分或付费",
+              "icon": "/assets/favicon_1756189627892.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756189613432_vj06fuf91",
+              "title": "MSDN 我告诉你",
+              "href": "https://msdn.itellyou.cn/",
+              "description": "提供 Windows、服务器系统等的官方原版 ISO",
+              "icon": "/assets/favicon_1756189054948.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756189642973_wf93da2pu",
+              "title": "Next, ITELLYOU",
+              "href": "https://next.itellyou.cn/",
+              "description": "MSDN 的替代站，仍提供官方原版 ISO，但部分资源需积分或付费",
+              "icon": "/assets/favicon_1756189627892.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756189613432_vj06fuf91",
+              "title": "MSDN 我告诉你",
+              "href": "https://msdn.itellyou.cn/",
+              "description": "提供 Windows、服务器系统等的官方原版 ISO",
+              "icon": "/assets/favicon_1756189054948.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756189642973_wf93da2pu",
+              "title": "Next, ITELLYOU",
+              "href": "https://next.itellyou.cn/",
+              "description": "MSDN 的替代站，仍提供官方原版 ISO，但部分资源需积分或付费",
+              "icon": "/assets/favicon_1756189627892.png",
+              "enabled": true
             }
           ]
         },
         {
           "id": "8830a925-8e3e-46c9-ae82-1f935603fd4d",
-          "title": "电子图书 E-books & Docs",
+          "title": "电子图书",
           "icon": "LayoutGrid",
           "description": "",
           "enabled": true,
           "items": [
+            {
+              "id": "site_1756189834111_v7u4hm0nd",
+              "title": "Z-Library",
+              "href": "https://zh.zlih.ru/",
+              "description": "世界上最大的电子图书馆。自由访问知识和文化。",
+              "icon": "/assets/favicon_1756189823058.svg",
+              "enabled": true
+            },
+            {
+              "id": "site_1756189834111_v7u4hm0nd",
+              "title": "Z-Library",
+              "href": "https://zh.zlih.ru/",
+              "description": "世界上最大的电子图书馆。自由访问知识和文化。",
+              "icon": "/assets/favicon_1756189823058.svg",
+              "enabled": true
+            },
+            {
+              "id": "site_1756189834111_v7u4hm0nd",
+              "title": "Z-Library",
+              "href": "https://zh.zlih.ru/",
+              "description": "世界上最大的电子图书馆。自由访问知识和文化。",
+              "icon": "/assets/favicon_1756189823058.svg",
+              "enabled": true
+            },
+            {
+              "id": "site_1756189834111_v7u4hm0nd",
+              "title": "Z-Library",
+              "href": "https://zh.zlih.ru/",
+              "description": "世界上最大的电子图书馆。自由访问知识和文化。",
+              "icon": "/assets/favicon_1756189823058.svg",
+              "enabled": true
+            },
             {
               "id": "site_1756189834111_v7u4hm0nd",
               "title": "Z-Library",
