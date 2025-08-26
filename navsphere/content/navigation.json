@@ -53,6 +53,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1756170324038",
+      "title": "社交网络",
+      "icon": "Globe",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
