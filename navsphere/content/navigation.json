@@ -30,6 +30,22 @@
               "description": "NULLBR资源分享频道",
               "icon": "/assets/favicon_1756106522680.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756106533156_p39lo3f5b",
+              "title": "Streamlit",
+              "href": "https://nullbr.online/",
+              "description": "NULLBR资源分享频道",
+              "icon": "/assets/favicon_1756106522680.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756106533156_p39lo3f5b",
+              "title": "Streamlit",
+              "href": "https://nullbr.online/",
+              "description": "NULLBR资源分享频道",
+              "icon": "/assets/favicon_1756106522680.png",
+              "enabled": true
             }
           ]
         },
@@ -38,6 +54,14 @@
           "title": "软件应用 Software & Apps",
           "icon": "Target",
           "description": "精选绿色软件、破解软件、开源软件站。",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "ad22ffcb-434f-485a-bfc9-319605a23899",
+          "title": "系统镜像 System & OS",
+          "icon": "BookOpen",
+          "description": "",
           "enabled": true,
           "items": []
         }
