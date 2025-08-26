@@ -114,11 +114,43 @@
       "subCategories": [
         {
           "id": "43dfe4fe-eb5a-4d2d-a21e-1b6478097d6f",
-          "title": "兴趣社区 Interest Community",
+          "title": "兴趣社区",
           "icon": "MessageSquare",
           "description": "",
           "enabled": true,
           "items": [
+            {
+              "id": "site_1756170385201_m1w0h5qrn",
+              "title": "LINUX DO",
+              "href": "https://linux.do",
+              "description": "新的理想型社区",
+              "icon": "/assets/favicon_1756170369080.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756170421976_zvsympx8t",
+              "title": "V2EX",
+              "href": "https://www.v2ex.com/",
+              "description": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
+              "icon": "/assets/img_1756190471900.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756170385201_m1w0h5qrn",
+              "title": "LINUX DO",
+              "href": "https://linux.do",
+              "description": "新的理想型社区",
+              "icon": "/assets/favicon_1756170369080.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756170421976_zvsympx8t",
+              "title": "V2EX",
+              "href": "https://www.v2ex.com/",
+              "description": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
+              "icon": "/assets/img_1756190471900.png",
+              "enabled": true
+            },
             {
               "id": "site_1756170385201_m1w0h5qrn",
               "title": "LINUX DO",
