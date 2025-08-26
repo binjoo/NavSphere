@@ -435,7 +435,16 @@
       "icon": "Target",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1756196104826_wc1klfwzj",
+          "title": "Free TinyPNG",
+          "href": "https://www.tinypng.site/",
+          "description": "永远完全免费的在线图片压缩工具，可批量压缩，也可单个修改。您也可以转换图片格式。",
+          "icon": "/assets/favicon_1756196098256.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
