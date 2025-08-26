@@ -145,7 +145,16 @@
       "icon": "Flag",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1756191307115_uwe7kwtks",
+          "title": "童年游戏",
+          "href": "https://www.yikm.net/",
+          "description": "魂斗罗，超级玛丽，热血足球，三国志，合金弹头，拳皇...",
+          "icon": "/assets/favicon_1756191285017.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
