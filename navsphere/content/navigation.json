@@ -46,6 +46,38 @@
               "description": "NULLBR资源分享频道",
               "icon": "/assets/favicon_1756106522680.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756106533156_p39lo3f5b",
+              "title": "Streamlit",
+              "href": "https://nullbr.online/",
+              "description": "NULLBR资源分享频道",
+              "icon": "/assets/favicon_1756106522680.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756106533156_p39lo3f5b",
+              "title": "Streamlit",
+              "href": "https://nullbr.online/",
+              "description": "NULLBR资源分享频道",
+              "icon": "/assets/favicon_1756106522680.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756106533156_p39lo3f5b",
+              "title": "Streamlit",
+              "href": "https://nullbr.online/",
+              "description": "NULLBR资源分享频道",
+              "icon": "/assets/favicon_1756106522680.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756106533156_p39lo3f5b",
+              "title": "Streamlit",
+              "href": "https://nullbr.online/",
+              "description": "NULLBR资源分享频道",
+              "icon": "/assets/favicon_1756106522680.png",
+              "enabled": true
             }
           ]
         },
@@ -61,6 +93,14 @@
           "id": "ad22ffcb-434f-485a-bfc9-319605a23899",
           "title": "系统镜像 System & OS",
           "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "8830a925-8e3e-46c9-ae82-1f935603fd4d",
+          "title": "电子图书 E-books & Docs",
+          "icon": "LayoutGrid",
           "description": "",
           "enabled": true,
           "items": []
