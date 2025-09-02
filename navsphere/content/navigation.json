@@ -181,7 +181,16 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1756774318626_y0vns138u",
+          "title": "AI咖",
+          "href": "https://www.aiprompter.cc/",
+          "description": "发现优质提示词管理方案",
+          "icon": "/assets/favicon_1756774299286.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "0b2965f1-2773-444d-a226-4ee189374ca1",
