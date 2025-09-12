@@ -206,7 +206,16 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1757664125653_ygxjgpxsp",
+          "title": "QWQ AI",
+          "href": "https://qwq32.com/",
+          "description": "An advanced AI assistant powered by QWQ-32B that provides thoughtful answers to your questions with detailed reasoning",
+          "icon": "/assets/favicon_1757664098016.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "0b2965f1-2773-444d-a226-4ee189374ca1",
