@@ -88,6 +88,14 @@
               "description": "一个快速更新操作系统资源的网站，提供从Windows XP到最新的Windows 11的MSDN官方镜像。",
               "icon": "/assets/favicon_1757668538870.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757668639559_7svbwxro1",
+              "title": "MSDN 系统库",
+              "href": "https://www.xitongku.com/",
+              "description": "致力于提供原版Windows生态服务的平台，旨在为用户提供安全、可靠的系统下载和安装服务。",
+              "icon": "/assets/favicon_1757668620237.png",
+              "enabled": true
             }
           ]
         },
