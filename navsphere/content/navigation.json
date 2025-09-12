@@ -143,6 +143,14 @@
               "description": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
               "icon": "/assets/img_1756190471900.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757641812248_lw19fk8tr",
+              "title": "CloChat",
+              "href": "https://clochat.com",
+              "description": "真自由、真平等、真开放、努力有趣、不一定友好的交流社区",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=clochat.com",
+              "enabled": true
             }
           ]
         }
