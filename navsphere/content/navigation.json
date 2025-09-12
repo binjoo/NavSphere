@@ -222,14 +222,6 @@
               "description": "发现优质提示词管理方案",
               "icon": "/assets/favicon_1756774299286.png",
               "enabled": true
-            },
-            {
-              "id": "site_1756774318626_y0vns138u",
-              "title": "AI咖",
-              "href": "https://www.aiprompter.cc/",
-              "description": "发现优质提示词管理方案",
-              "icon": "/assets/favicon_1756774299286.png",
-              "enabled": true
             }
           ]
         },
