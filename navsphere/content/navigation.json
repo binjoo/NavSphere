@@ -6,16 +6,7 @@
       "icon": "LayoutGrid",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1757480752194_v9indvp2a",
-          "title": "哲风壁纸",
-          "href": "https://haowallpaper.com/",
-          "description": "为广大壁纸爱好者提供交流和分享的平台",
-          "icon": "/assets/favicon_1757480742158.ico",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "6abbdaba-5be8-49eb-84e6-6111b7969faa",
@@ -38,6 +29,14 @@
               "href": "https://cilisousuo.com/",
               "description": "磁力搜索",
               "icon": "/assets/favicon_1757654050007.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1757480752194_v9indvp2a",
+              "title": "哲风壁纸",
+              "href": "https://haowallpaper.com/",
+              "description": "为广大壁纸爱好者提供交流和分享的平台",
+              "icon": "/assets/favicon_1757480742158.ico",
               "enabled": true
             }
           ]
