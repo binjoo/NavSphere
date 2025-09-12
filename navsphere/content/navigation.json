@@ -72,6 +72,14 @@
               "description": "MSDN 的替代站，仍提供官方原版 ISO，但部分资源需积分或付费",
               "icon": "/assets/favicon_1756189627892.png",
               "enabled": true
+            },
+            {
+              "id": "site_1757668496654_zt9j8qs8t",
+              "title": "HelloWindows.cn - 精校 完整 极致 Windows系统下载仓储站",
+              "href": "https://hellowindows.cn/",
+              "description": "完整极致的Windows纯净系统下载站",
+              "icon": "/assets/favicon_1757668478938.png",
+              "enabled": true
             }
           ]
         },
