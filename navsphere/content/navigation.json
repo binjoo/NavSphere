@@ -55,7 +55,16 @@
           "icon": "Target",
           "description": "精选绿色软件、破解软件、开源软件站。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1758163089770_cyvn4l7lt",
+              "title": "5Play",
+              "href": "https://5play.org/en/android/games/",
+              "description": "提供安卓修改版的游戏或应用，部分游戏带有Mod功能。",
+              "icon": "/assets/favicon_1758163031814.svg",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "ad22ffcb-434f-485a-bfc9-319605a23899",
