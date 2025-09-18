@@ -38,6 +38,14 @@
               "description": "为广大壁纸爱好者提供交流和分享的平台",
               "icon": "/assets/favicon_1757480742158.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1758158305675_hiz5q28do",
+              "title": "PanSou 盘搜",
+              "href": "https://so.252035.xyz/",
+              "description": "",
+              "icon": "/assets/favicon_1758158291458.ico",
+              "enabled": true
             }
           ]
         },
